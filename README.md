@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="zhaohuijian.github.io/fez/" target="_blank">
+  <a href="https://zhaohuijian.github.io/fez/" target="_blank">
     <img width="200" src="./.fez/utils/fezlogo.svg">
   </a>
 </p>
